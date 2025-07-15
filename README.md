@@ -1,5 +1,5 @@
 # Python-hearts-drawing
-# 💖 Lil Girl - Turtle Graphics Love Art
+# 💖 Turtle Graphics Love Art
 
 This Python script creates a cute and colorful love-themed drawing using the `turtle` graphics module. It includes:
 
